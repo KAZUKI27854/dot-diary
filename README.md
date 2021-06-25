@@ -1,4 +1,5 @@
 # Dot Diary 〜みっかぼうずのやぼう〜
+![top-screen](https://user-images.githubusercontent.com/78312000/123427418-8e8e4f80-d5ff-11eb-9366-38d58a366668.gif)
 
 ## サイト概要
 
