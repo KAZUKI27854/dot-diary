@@ -1,7 +1,7 @@
 # Dot Diary 〜みっかぼうずのやぼう〜
 「Dot Diary」は、日記形式でゲームのように楽しみながら目標を記録、管理するアプリケーションです。<br>
 <br>
-<img src="https://user-images.githubusercontent.com/78312000/123427418-8e8e4f80-d5ff-11eb-9366-38d58a366668.gif" width="500">
+<img src="https://user-images.githubusercontent.com/78312000/123427418-8e8e4f80-d5ff-11eb-9366-38d58a366668.gif" width="600">
 
 ## サイト概要
 
@@ -10,13 +10,14 @@
 <br>
 1. ユーザ登録し、自分の「目標」を設定します。<br>
 2. 目標の為にしたことを投稿すると、目標のレベルが上昇します。<br>
-<img src="https://user-images.githubusercontent.com/78312000/123500172-0cda0880-d677-11eb-82d9-0b4857b8a914.gif" width="500">
+<img src="https://user-images.githubusercontent.com/78312000/123500172-0cda0880-d677-11eb-82d9-0b4857b8a914.gif" width="600">
 3. 投稿回数に応じて、画像に表示されるモンスターやステージが変化するなど、日々の成長を視覚的に楽しむことができます。<br>
 <br>
 <p>
   <img src="https://user-images.githubusercontent.com/78312000/123501680-9a225a80-d681-11eb-8b8a-d188b8960c24.png" width="300">
   <img src="https://user-images.githubusercontent.com/78312000/123501682-a0183b80-d681-11eb-9b18-3354c65a53e5.png" width="300">
   <img src="https://user-images.githubusercontent.com/78312000/123501685-a3132c00-d681-11eb-89a2-c9e8b2e57922.png" width="300">
+  <img src="https://user-images.githubusercontent.com/78312000/123518524-3d568c80-d6e1-11eb-999e-a5caa81dbe24.png" width="300">
  </p>
 4. Lv.100 になればその目標は達成です！目標達成に向けて、Todoリスト機能もぜひご活用ください。<br>
 <br>
