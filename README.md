@@ -14,11 +14,11 @@
 <br>
 ※1 投稿イメージ
 <br>
-<img width="393" alt="doc-screen" src="https://user-images.githubusercontent.com/78312000/123421743-36a01a80-d5f8-11eb-9ea6-35a9b9769b6d.png"><img width="1179" alt="スクリーンショット 2021-06-24 11 08 19 2" src="https://user-images.githubusercontent.com/78312000/123424271-964bf500-d5fb-11eb-9d15-a62ca049dd08.png">
+![newdoc](https://user-images.githubusercontent.com/78312000/123499966-735e2700-d675-11eb-86c4-08aa0cace546.gif)
 <br>
 ※2 Todoリスト使用例
 <br>
-
+<img width="1179" alt="スクリーンショット 2021-06-24 11 08 19 2" src="https://user-images.githubusercontent.com/78312000/123424271-964bf500-d5fb-11eb-9d15-a62ca049dd08.png">
 <br>
 
 ### サイトテーマ
