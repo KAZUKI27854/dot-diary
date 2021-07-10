@@ -77,6 +77,7 @@ Javascriptを用いた機能を複数実装しているため、js:trueオプシ
 
 ## 設計書
 
+### アプリケーション設計
 [ER 図](https://drive.google.com/file/d/1BKTg2k6PQeldhfoDnKyMcuHOQnp0O5tL/view?usp=sharing)
 <br>
 [テーブル定義書](https://docs.google.com/spreadsheets/d/1yiQLRAzExqjTAvmJPudOBvqLG6T1lIXLw1otn_n_r4Y/edit?usp=sharing)
@@ -86,6 +87,11 @@ Javascriptを用いた機能を複数実装しているため、js:trueオプシ
 [ワイヤーフレーム](https://drive.google.com/file/d/1C_bq4RVYKyG_rNvWowWzDuzlGTFZMwMA/view?usp=sharing)
 <br>
 [画面遷移図](https://drive.google.com/file/d/1Ylr3uINj8zeC9yrcbIqHa-QDC93B5bcN/view?usp=sharing)
+
+### AWSインフラ設計
+[ネットワーク構成図](https://drive.google.com/file/d/15j9zsoOgIRl6TAyq4XD8fCS0S8_zXuIZ/view?usp=sharing)
+<br>
+[インフラ設計書](https://docs.google.com/spreadsheets/d/10Cwlml411NKFhjUz_hrzwpuLpKQG7uzjNpH1jTxI7ls/edit?usp=sharing)
 
 ## チャレンジ要素一覧
 
